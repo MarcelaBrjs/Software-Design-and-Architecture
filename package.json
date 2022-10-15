@@ -1,0 +1,22 @@
+{
+  "name": "twitter-reloaded-and-event-dashboard",
+  "version": "1.0.0",
+  "description": "Final project for the course \"TC3049. Software Design and Architecture\", centered around the development of the app Twitter Reloaded and Event Dashboard.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcelaBrjs/Software-Design-and-Architecture.git"
+  },
+  "author": "MarcelaBrjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcelaBrjs/Software-Design-and-Architecture/issues"
+  },
+  "homepage": "https://github.com/MarcelaBrjs/Software-Design-and-Architecture#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
